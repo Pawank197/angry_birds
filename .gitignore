@@ -1,0 +1,16 @@
+# Ignore Python virtual environments
+angry_birds_env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Latex file
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
+*.toc
